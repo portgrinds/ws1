@@ -25,7 +25,7 @@ SECRET_KEY = 'x4^qjpmnn3mk^$ur2k#ybeu$)kizug!n!+9apxqj_xmbs)ua=d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'portgrinds.pythonanywhere.com']
 
 
 # Application definition
